@@ -68,4 +68,4 @@ The core goal of the project is demonstrating clean separation of concerns and m
 To execute automated tests covering design patterns, TTL caching, database persistence, and fault tolerance:
 
 ```bash
-python tests/run_experiments.py
+python run_experiments.py
